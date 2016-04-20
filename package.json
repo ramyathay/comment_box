@@ -1,0 +1,14 @@
+{
+  "name": "CommentBox",
+  "version": "1.0.0",
+  "description": "Comment Box in React",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "nodemon": "^1.9.1"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.5.0"
+  }
+}
